@@ -1,0 +1,19 @@
+src/rtmessage/rtList.c
+  s_1c72b5376e1625::t_f41bf7932c56ed 239,241-242
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "f0aec2d589b3bea109c2caeae719989e743f1216",
+  "prompts": {},
+  "sessions": {
+    "s_1c72b5376e1625": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "08ee74e7-2377-4a64-af26-7d86737bc086",
+        "model": "composer-2.5"
+      },
+      "human_author": "kaluvalapalli.satish <kaluvalapalli.satish@telekom-digital.com>"
+    }
+  }
+}
