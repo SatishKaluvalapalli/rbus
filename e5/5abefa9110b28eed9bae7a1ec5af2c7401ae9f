@@ -1,0 +1,29 @@
+src/rtmessage/rtConnection.c
+  s_3713ec7fa2d2b7::t_f07c2b543375ae 893,1130,1134-1136,1138,1144-1160,1162-1167,1175,1181,1193,1232,1234,1236,1238-1239,1243,1247-1254,1265-1288,1292,1840
+  s_3713ec7fa2d2b7::t_cd5f93cb25c2bf 885,887,889
+  s_3713ec7fa2d2b7::t_09a8181f051dfb 210-293,295,297
+  s_3713ec7fa2d2b7::t_75bedcdb7bb6f8 294
+  s_3713ec7fa2d2b7::t_7fbb085175e02d 296
+  s_3713ec7fa2d2b7::t_9b7769c8873dd3 884
+  s_3713ec7fa2d2b7::t_62f6e934089214 890-891
+  s_3713ec7fa2d2b7::t_32aa846601cdf9 1129
+  s_3713ec7fa2d2b7::t_1122689c078ef8 1289-1291
+  s_3713ec7fa2d2b7::t_9913a04979b249 1839
+  s_3713ec7fa2d2b7::t_1321978ddd1db2 1294,1837,1848,1851
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e55abefa9110b28eed9bae7a1ec5af2c7401ae9f",
+  "prompts": {},
+  "sessions": {
+    "s_3713ec7fa2d2b7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "103325bc-9739-4acd-8f85-cd277ff568a7",
+        "model": "composer-2.5-fast"
+      },
+      "human_author": "kaluvalapalli.satish <kaluvalapalli.satish@telekom-digital.com>"
+    }
+  }
+}
